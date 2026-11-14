@@ -1,0 +1,5 @@
+# Klartext publiceras aldrig – bara krypterad index.html och k/*.bin
+budget.json
+kvitton/
+.losenord.json
+.DS_Store
